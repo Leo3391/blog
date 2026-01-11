@@ -1,3 +1,8 @@
+---
+title: "Why should you use Vim"
+date: 2026-01-11
+---
+
 # Vim: The Most Powerful Text Editor
 
 ## What is Vim?
