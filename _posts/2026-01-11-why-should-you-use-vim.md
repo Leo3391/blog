@@ -24,11 +24,9 @@ Vim is a highly configurable and efficient text editor that runs mainly in the t
 - **Hard to quit** (yes, the meme is real)
 
 ## Why should you use Vim?
-
 Vim is a powerful editor. Once you get used to it, you will edit files quickly and efficiently. It reduces mouse usage, keeps your hands on the keyboard, and helps you think in actions rather than individual keystrokes. Vim also shines when working on remote machines or low-resource systems where full IDEs are unavailable.
 
 ## Is it hard to learn how to use Vim?
-
 It's not really as hard as you think. At first, Vim may feel strange because of its modes and shortcuts, but after some practice, everything starts to make sense. Instead of memorizing everything at once, you learn Vim gradually, and your speed improves naturally over time.
 
 If you have time and your English is not bad, try running `vimtutor` in the shell. It is an interactive tutorial built into Vim and is one of the best ways to learn the basics.
@@ -36,7 +34,6 @@ If you have time and your English is not bad, try running `vimtutor` in the shel
 Here are some basics from it:
 
 ### Navigation
-
 Use **h, j, k, l** to move left, down, up, and right.
 Note: Arrow keys also work in Vim, but these keys are faster once you get used to them.
 
@@ -46,7 +43,6 @@ Note: Arrow keys also work in Vim, but these keys are faster once you get used t
 - **G** → go to the bottom of the file  
 
 ### Commands
-
 - **i** → enter insert mode (start typing)
 - **Esc** → return to normal mode
 - `:w` → save the file
@@ -58,7 +54,6 @@ If you don’t know what you typed or feel stuck, just press **Esc** to return t
 If you want to leave immediately without saving, press **Esc** and type `:q!`.
 
 ## Is it worth using Vim, or even just the hjkl movement?
-
 Yes, absolutely. Even if Vim doesn’t become your main editor, learning **hjkl** movement is still useful. Many tools and editors support Vim-style navigation, such as `less`, `tmux`, and even modern editors like VS Code. Vim teaches you to edit text efficiently and think differently about how you work with files — a skill that stays valuable long-term.
 
 ## Vim Cheat Sheet
