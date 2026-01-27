@@ -1,0 +1,32 @@
+# Hugo build output folder (generated site)
+public/
+
+# Hugo resources cache
+resources/_gen/
+
+# Node modules (if you use Node.js tooling)
+node_modules/
+
+# Package lock files (optional if you want to ignore)
+package-lock.json
+yarn.lock
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE/editor configs
+.vscode/
+.idea/
+
+# Vim swap, backup, and undo files
+*.swp
+*.swo
+*.bak
+*.undo
+
+# Misc temp files
+*.tmp
