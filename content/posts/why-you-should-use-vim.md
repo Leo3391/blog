@@ -1,5 +1,5 @@
 +++
-title = "Why Should You Use Vim"
+title = "Why You Should Use Vim"
 date = "2026-01-27T08:25:48Z"
 author = "Leo"
 authorTwitter = "" #do not include @
@@ -7,7 +7,7 @@ cover = ""
 coverCaption = ""
 tags = ["vim"]
 keywords = ["vim", "tutorial"]
-description = "Why Should You Use Vim?"
+description = "Why You Should Use Vim?"
 showFullContent = false
 readingTime = true
 hideComments = false
