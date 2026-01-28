@@ -34,7 +34,7 @@ Vim is a highly configurable and efficient text editor that runs mainly in the t
 - **Not very intuitive** without a tutorial
 - **Hard to quit** (yes, the meme is real)
 
-## Why should you use Vim?
+## Why you should use Vim?
 Vim is a powerful editor. Once you get used to it, you will edit files quickly and efficiently. It reduces mouse usage, keeps your hands on the keyboard, and helps you think in actions rather than individual keystrokes. Vim also shines when working on remote machines or low-resource systems where full IDEs are unavailable.
 
 ## Is it hard to learn how to use Vim?
