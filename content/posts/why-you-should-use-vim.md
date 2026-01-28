@@ -27,6 +27,7 @@ Vim is a highly configurable and efficient text editor that runs mainly in the t
 - **Available almost everywhere** (Linux, macOS, servers, SSH)
 - **Highly customizable** with configs and plugins
 - **Powerful text manipulation** (macros, regex, bulk edits)
+- **Number + command** feature saves you a lot of time
 
 ### Cons
 - **Steep learning curve** for beginners
@@ -97,6 +98,7 @@ Yes, absolutely. Even if Vim doesn’t become your main editor, learning **hjkl*
 - `:q!` → quit without saving
 
 ### Useful Tips
+- Use **number + command** to repeat the command times, eg, `3j` moves down three lines. This will save you a lot of time.
 - Press **Esc** anytime to return to normal mode
 - Use `u` to undo and `Ctrl+r` to redo
 - Type `/text` to search for text
