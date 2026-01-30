@@ -1,13 +1,13 @@
 +++
-title = "Why You Should Root Your Andriod"
+title = "Why You Should Root Your Android"
 date = "2026-01-28T14:51:36Z"
 author = "Leo"
 authorTwitter = "" #do not include @
 cover = ""
 coverCaption = ""
-tags = ["andriod", "root"]
-keywords = ["andriod", "root"]
-description = "Why You Should Root Your Andriod?"
+tags = ["android", "root"]
+keywords = ["android", "root"]
+description = "Why You Should Root Your Android?"
 showFullContent = false
 readingTime = true
 hideComments = false
