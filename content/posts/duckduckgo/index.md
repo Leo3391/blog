@@ -20,13 +20,17 @@ Because it has a strong focus on privacy, and it has some interesting things:
 
 ## Themes
 DuckDuckGo has its own terminal theme that Google doesn't have! Look at this:
-![DuckDuckGo's terminal theme with green text and gray background](DuckDuckGo_Searching.jpg)
-![DuckDuckGo's terminal theme in the settings](DuckDuckGo_Terminal_Theme.jpg)
+![DuckDuckGo's terminal theme with green text and gray background](Searching.jpg)
+![DuckDuckGo's terminal theme in the settings](Terminal_Theme.jpg)
 
 ## DuckDuckGo in the terminal
 What search engine can work in a terminal? DuckDuckGo!
 DuckDuckGo in `w3m` on Termux:
-![DuckDuckGo in w3m on Termux](DuckDuckGo_Termux.jpg)
+![DuckDuckGo in w3m on Termux](Termux.jpg)
+
+## Clearing (fire) data and tabs
+Both DuckDuckGo and Google can clear data, but DuckDuckGo has its cool file animation!
+![Firing data and tabs animation](Fire.gif)
 
 ## Should you use DuckDuckGo?
 Of course because why not! It is definely the best search engine!
