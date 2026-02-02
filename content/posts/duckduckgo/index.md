@@ -29,7 +29,7 @@ DuckDuckGo in `w3m` on Termux:
 ![DuckDuckGo in w3m on Termux](Termux.jpg)
 
 ## Clearing (fire) data and tabs
-Both DuckDuckGo and Google can clear data, but DuckDuckGo has its cool file animation!
+Both DuckDuckGo and Google can clear data, but DuckDuckGo has its cool fire animation!
 ![Firing data and tabs animation](Fire.gif)
 
 ## Should you use DuckDuckGo?
