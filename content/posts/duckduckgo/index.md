@@ -7,7 +7,7 @@ cover = ""
 coverCaption = ""
 tags = ["duckduckgo"]
 keywords = ["duckduckgo"]
-description = ""
+description = "One of the best search engine"
 showFullContent = false
 readingTime = true
 hideComments = false
@@ -24,7 +24,7 @@ DuckDuckGo has its own terminal theme that Google doesn't have! Look at this:
 ![DuckDuckGo's terminal theme in the settings](Terminal_Theme.jpg)
 
 ## DuckDuckGo in the terminal
-What search engine can work in a terminal? DuckDuckGo!
+What search engine can work in a terminal? DuckDuckGo!  
 DuckDuckGo in `w3m` on Termux:
 ![DuckDuckGo in w3m on Termux](Termux.jpg)
 
