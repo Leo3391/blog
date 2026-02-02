@@ -102,6 +102,7 @@ Yes, absolutely. Even if Vim doesn’t become your main editor, learning **hjkl*
 - Press **Esc** anytime to return to normal mode
 - Use `u` to undo and `Ctrl+r` to redo
 - Type `/text` to search for text
+- Type `:!` followed by the command to run it in the shell
 
 ---
 
