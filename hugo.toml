@@ -5,3 +5,4 @@ title = "Leo's Blog"
 theme = 're-terminal'
 [params]
   themeColor = "green"
+  favicon = "favicon.ico"
