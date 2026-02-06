@@ -5,9 +5,9 @@ title = ''
 +++
 
 # Welcome to My Blog!
-Hi, I'm Leo - a 9th-grade junior high school student in Taiwan.  
-Click these links to learn more.
+Hi, I'm Leo - a 9th-grade junior high school student in Taiwan.
 
+Click these links to learn more.
 [About me](/blog/about)
 [Posts](/blog/posts)
 [/now](/blog/now)
