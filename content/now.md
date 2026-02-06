@@ -17,14 +17,14 @@ Git, [GitHub](https://github.com/Leo3391), and GitHub Pages
 I'm preparing for the exam
 
 Mock Exam:
-1st: 1A++ 2A+ 2B++
+1. 1A++ 2A+ 2B++
     - Mathematic: A++
     - Natural Science: A+
     - English: A+
     - Chinese: B++
     - Social Sudies: B++
     - Writing Assessment: N/A
-2nd: 2A++ 1A+ 2A
+2. 2A++ 1A+ 2A
     - Mathematic: A++
     - Natural Science: A++
     - English: A
