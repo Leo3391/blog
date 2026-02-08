@@ -4,7 +4,7 @@ draft = false
 title = ''
 +++
 
-# Welcome to My Blog!
+# Hello, world!
 Hi, I'm Leo - a 9th-grade junior high school student in Taiwan.
 
 Click these links to learn more.
