@@ -13,6 +13,8 @@ I'm Leo - a 9th-grade junior high school student in Taiwan.
 
 ## What I love
 I like math, science, and computer science. Also, I love thinking.
+I like music, especially piano.
+This is my playlist: [Click here](/blog/playlist)
 
 # What I'm good at
 I'm good at math, science, and English. Although My mother language is Chinese, My English is still not bad.
