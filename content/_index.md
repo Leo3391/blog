@@ -12,5 +12,5 @@ Click these links to learn more.
 [Posts](/blog/posts)  
 [/now](/blog/now)  
 [/use](/blog/use)  
-[/blogroll](#)  
+[/blogroll](/blog/blogroll)  
 [Code](https://github.com/Leo3391/blog)  
