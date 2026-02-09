@@ -12,5 +12,5 @@ color = "" #color from the theme settings
 +++
 
 # Blogroll
-Now the Blogroll is available now! You can visit it [here](/blog/Blogroll).  
+Now the Blogroll is available now! You can visit it [here](/blog/blogroll).  
 (Though it's very short now lol)
