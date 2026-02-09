@@ -12,7 +12,7 @@ showFullContent = false
 readingTime = true
 hideComments = false
 color = "" #color from the theme settings
-draft = true
+draft = false
 +++
 
 # Some cool commands on Linux that you may have not heard before
@@ -123,8 +123,69 @@ sudo apt install fortune cowsay
 ```bash
 sudo dnf install fortune-mod cowsay
 ```
+`yum`:
+```bash
+sudo yum install epel-release
+sudo yum install fortune-mod cowsay
+```
 `pacman`:
 ```bash
 sudo pacman -S fortune cowsay
 ```
 
+Then type
+```bash
+fortune | cowsay
+```
+You will get something like this
+```bash
+ _______________________________________
+/ The mirror sees the man as beautiful, \
+| the mirror loves the man; another     |
+| mirror sees the man as frightful and  |
+| hates him; and it is always the same  |
+| being who produces the impressions.   |
+|                                       |
+\ -- Marquis D.A.F. de Sade             /
+ ---------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
+
+You can try others like Tux:
+```bash
+~/blog $ fortune | cowsay -f tux
+```
+```
+ ________________________________________
+/ Rincewind formed a mental picture of   \
+| some strange entity living in a castle |
+| made of teeth. It was the kind of      |
+| mental picture you tried to forget.    |
+| Unsuccessfully.                        |
+|                                        |
+| -- Terry Pratchett, "The Light         |
+\ Fantastic"                             /
+ ----------------------------------------
+   \
+    \
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
+```
+
+You can get a full list of the available characters by this command:
+```bash
+cowsay -l
+```
+
+---
+
+These are what I found. Try them in your terminal now! If you have other cool things you want to tell me, you can send an e-mail to {{< email >}}
