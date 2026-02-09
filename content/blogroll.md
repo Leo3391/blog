@@ -8,5 +8,5 @@ title = 'Blogroll'
 
 | Name | link |
 | ---- | ---- |
-| Wiwi | [wiwi.blog](wiwi.blog) |
-| Wiwi's blog club | [blogblog.club](blogblog.club) |
+| Wiwi | [wiwi.blog](https://wiwi.blog) |
+| Wiwi's blog club | [blogblog.club](https://blogblog.club) |
