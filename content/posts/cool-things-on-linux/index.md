@@ -1,6 +1,6 @@
 +++
 title = "Cool Things on Linux"
-date = "2026-01-30T14:43:42Z"
+date = "2026-02-08T21:08:42Z"
 author = "Leo"
 authorTwitter = "" #do not include @
 cover = ""
@@ -15,6 +15,9 @@ color = "" #color from the theme settings
 draft = true
 +++
 
+# Some cool commands on Linux that you may have not heard before
+
+## Apt
 When I was using Termux, I typed `apt` to check how to use it. This is its output:
 ```
 apt 2.8.1 (aarch64)
@@ -48,4 +51,80 @@ Security details are available in apt-secure(8).
                                         This APT has Super Cow Powers.
 ```
 
-Look at the last line. It says it has `Super Cow Powers`! So I duckduckgo'd
+Look at the last line.
+```
+This APT has Super Cow Powers.
+```
+It says it has `Super Cow Powers`! So I [duckduckgo'd]({{< relref "duckduckgo.md" >}}) it. I found the cool command `apt moo`! Now let's try it:
+```bash
+~ $ apt moo
+                 (__)
+                 (oo)
+           /------\/
+          / |    ||
+         *  /\---/\
+            ~~   ~~
+..."Have you mooed today?"...
+```
+Isn't it cool?
+
+---
+
+## Typo
+Have you ever typed `sl` accidentally when you wanted `ls` to list directory contents? If you ever have, you must try this!
+
+Installation  
+`apt`:
+```bash
+sudo apt install sl
+```
+`dnf`:
+```bash
+sudo dnf install sl
+```
+`yum`:
+```bash
+sudo yum install epel-release -y # You may need to run this first
+sudo yum install sl -y
+```
+`pacman`:
+```bash
+sudo pacman -S sl
+```
+
+Then the next time you accidentally type `sl`, you'll have to smile!
+```
+                          (  ) (@@) ( )  (@)  ()    @@    O     @     O     @
+                     (@@@)
+                 (    )
+              (@@@@)
+
+            (   )
+        ====        ________                ___________
+    _D _|  |_______/        \__I_I_____===__|_________|
+     |(_)---  |   H\________/ |   |        =|___ ___|      _________________
+     /     |  |   H  |  |     |   |         ||_| |_||     _|                \___
+    |      |  |   H  |__--------------------| [___] |   =|
+    | ________|___H__/__|_____/[][]~\_______|       |   -|
+    |/ |   |-----------I_____I [][] []  D   |=======|____|______________________
+  __/ =| o |=-~~\  /~~\  /~~\  /~~\ ____Y___________|__|________________________
+   |/-=|___|=O=====O=====O=====O   |_____/~\___/          |_D__D__D_|  |_D__D__D
+    \_/      \__/  \__/  \__/  \__/      \_/               \_/   \_/    \_/   \
+```
+
+---
+
+## Command combo
+`apt`:
+```bash
+sudo apt install fortune cowsay
+```
+`dnf`:
+```bash
+sudo dnf install fortune-mod cowsay
+```
+`pacman`:
+```bash
+sudo pacman -S fortune cowsay
+```
+
