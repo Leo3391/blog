@@ -5,7 +5,7 @@ title = 'About me'
 +++
 
 # Contact
-Email: [leo3391@proton.me](mailto:leo3391@proton.me)  
+Email: {{< email >}}  
 RSS: [Click this](/blog/index.xml)
 
 # About me

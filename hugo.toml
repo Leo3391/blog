@@ -6,3 +6,5 @@ theme = 're-terminal'
 [params]
   themeColor = "green"
   favicon = "favicon.ico"
+
+  email = 'leo3391@proton.me'

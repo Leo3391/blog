@@ -1,0 +1,7 @@
+<a href="mailto:{{ .Site.Params.email }}">
+  {{ if .Get "text" }}
+    {{ .Get "text" }}
+  {{ else }}
+    {{ .Site.Params.email }}
+  {{ end }}
+</a>
