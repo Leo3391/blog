@@ -91,6 +91,7 @@ sudo yum install sl -y
 ```bash
 sudo pacman -S sl
 ```
+`pkg`:
 ```bash
 pkg install sl
 ```
@@ -135,6 +136,7 @@ sudo yum install fortune-mod cowsay
 ```bash
 sudo pacman -S fortune cowsay
 ```
+`pkg`:
 ```bash
 pkg install fortune cowsay
 ```
