@@ -51,7 +51,7 @@ Security details are available in apt-secure(8).
                                         This APT has Super Cow Powers.
 ```
 
-Look at the last line.
+Look at the last line:
 ```
 This APT has Super Cow Powers.
 ```
@@ -90,6 +90,9 @@ sudo yum install sl -y
 `pacman`:
 ```bash
 sudo pacman -S sl
+```
+```bash
+pkg install sl
 ```
 
 Then the next time you accidentally type `sl`, you'll have to smile!
@@ -131,6 +134,9 @@ sudo yum install fortune-mod cowsay
 `pacman`:
 ```bash
 sudo pacman -S fortune cowsay
+```
+```bash
+pkg install fortune cowsay
 ```
 
 Then type
