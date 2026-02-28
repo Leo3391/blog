@@ -1,7 +1,7 @@
-<a href="mailto:{{ .Site.Params.email }}">
-  {{ if .Get "text" }}
-    {{ .Get "text" }}
-  {{ else }}
-    {{ .Site.Params.email }}
-  {{ end }}
-</a>
+{{/* Compute email */}}
+{{ $email := $.Site.Params.email | default "email@example.com" }}
+
+{{/* Compute link text */}}
+{{ $text := .Get "text" | default $email }}
+
+<a href="mailto:{{ $email }}">{{ $text }}</a>
