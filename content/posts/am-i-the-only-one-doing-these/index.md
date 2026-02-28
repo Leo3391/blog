@@ -19,4 +19,4 @@ I always drink water. Do you also always drink water? I like to drink water beca
 
 # Using ClearFlow keyboard layout
 I like to use ClearFlow keyboard layout because I find it's the best for coding!
-![ClearFlow on tablet](clearflow_on_phone.jpg)
+![ClearFlow on tablet](clearflow_on_tablet.jpg)
