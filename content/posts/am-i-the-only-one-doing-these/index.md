@@ -18,5 +18,12 @@ I always drink water. Do you also always drink water? I like to drink water beca
 (Actually, I am not the only one doing this. There is also [another one doing this](https://water-bottle-fly.bearblog.dev/drinking-too-much-water/))
 
 # Using ClearFlow keyboard layout
-I like to use ClearFlow keyboard layout because I find it's the best for coding!
+I like to use ClearFlow keyboard layout because I find it's the best for coding!  
+This is how it looks on my tablet:
 ![ClearFlow on tablet](clearflow_on_tablet.jpg)
+
+Though it doesn't use qwerty layout, it adds many keys at the left!  
+This is how it looks on my phone:
+![ClearFlow on phone](clearflow_on_phone.jpg)
+
+It takes some time to practice, but you will code faster on the phone and tablet once you get used to it!
