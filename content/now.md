@@ -31,6 +31,13 @@ Mock Exam:
     - Chinese: A
     - Social Sudies: A+
     - Writing Assessment: 2 (Bad)
+3. 2A++ 2A+ 1A
+    - Mathematic: A+
+    - Natural Science: A++
+    - English: A+
+    - Chinese: A
+    - Social Sudies: A++
+    - Writing Assessment: N/A
 
 ## [General English Proficiency Test, GEPT 全民英語能力分級檢定測驗/(全民)英檢](https://en.wikipedia.org/wiki/General_English_Proficiency_Test)
 Preparing for the Intermediate level now
