@@ -11,5 +11,5 @@ hideComments = false
 color = "" #color from the theme settings
 +++
 
-<script src="https://keepandroidopen.org/banner.js?link=https://example.com/android&hidebutton=off"></script>
+{{< keep-android-open >}}
 # Keep Android Open!
