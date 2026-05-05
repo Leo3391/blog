@@ -11,6 +11,7 @@ Click these links to learn more.
 [About me](/blog/about)  
 [My music playlist](/blog/playlist)  
 [Posts](/blog/posts)  
+[/cap](/blog/cap)
 [/now](/blog/now)  
 [/use](/blog/use)  
 [/blogroll](/blog/blogroll)  
